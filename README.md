@@ -1,11 +1,17 @@
+
+# <div align="center">👨‍💻 Hello Dev!</div>
+
+<div align="center">
+
+I'm **Prakhar Pandey**, a Computer Science at the **National Institute of Technology Hamirpur**. 
+
+</div>
+
 <div align="center">
     
 ![GIF](https://github.com/Prakharpan-dey/Prakharpan-dey/blob/main/images/coding%20gif.gif)
 
 </div>
-<h1 align="center">Hi 👋, I'm Prakhar Pandey</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prakharpan-dey&theme=radical&column=6&margin-w=15&margin-h=15" alt="Prakharpan-dey" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter and Firebase**
 
@@ -15,13 +21,7 @@
 
 - 📫 How to reach me **prakharpandey067@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prakhar-pandey01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-singh-736521289" height="30" width="40" /></a>
-<a href="https://www.instagram.com/prv_khvr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanshsingh4378" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singhshivansh12may" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
+## <div align="center"> 💼 Technical Skills </div>
 <p align="left">
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -44,11 +44,42 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
     </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="androidstudio" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </p>
-<div align="center"> <h3>📊 GitHub Stats:</h3></div>
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+    <div style="flex-grow: 1;">
+        <h2> <div align="center"> 🌐 Connect with Me</div></h2>
+        <div align="center"><a href="https://www.linkedin.com/in/prakhar-pandey01/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="mailto:prakharpandey067@gmail.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+        <p>Thanks for stopping by!</p></div>
+    </div>
+</div> 
+
+# <div align="center"> 📊 GitHub Stats:</div>
 <div align="center">
   <br/><br/>
 
@@ -57,4 +88,19 @@
   
 </div>
 
-![Snake animation](https://github.com/SaumitraTandon/SaumitraTandon/blob/output/snake.svg)
+
+## <div align="center">🏆 GitHub Trophies</div>
+![](https://github-profile-trophy.vercel.app/?username=Prakharpan-dey&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+<div align="center">
+
+ ## ✍️ **Words of Wisdom**
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes"/>
+
+</div>
+
+
+![Snake animation](https://raw.githubusercontent.com/Prakharpan-dey/Prakharpan-dey/output/snake.svg)
+[![@prakharpandey's Holopin board] (https://holopin.io/api/user/board?user=prakharpandey)]
+(https://holopin.io/@prakharpandey)
