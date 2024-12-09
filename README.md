@@ -3,7 +3,7 @@
 
 <div align="center">
 
-I'm **Prakhar Pandey**, a Computer Science at the **National Institute of Technology Hamirpur**. 
+I'm **Prakhar Pandey**, a Computer Science Undergrad at the **National Institute of Technology Hamirpur**. 
 
 </div>
 
