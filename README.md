@@ -101,6 +101,4 @@ I'm **Prakhar Pandey**, a Computer Science at the **National Institute of Techno
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/Prakharpan-dey/Prakharpan-dey/output/snake.svg)
-[![@prakharpandey's Holopin board] (https://holopin.io/api/user/board?user=prakharpandey)]
-(https://holopin.io/@prakharpandey)
+![Snake animation](https://github.com/SaumitraTandon/SaumitraTandon/blob/output/snake.svg)
