@@ -1,4 +1,8 @@
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
+<div align="center">
+    
+![GIF](https://github.com/Prakharpan-dey/Prakharpan-dey/blob/main/images/coding%20gif.gif)
+
+</div>
 <h1 align="center">Hi 👋, I'm Prakhar Pandey</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prakharpan-dey&theme=radical&column=6&margin-w=15&margin-h=15" alt="Prakharpan-dey" /></a> </p>
