@@ -13,7 +13,7 @@ I'm **Prakhar Pandey**, a Computer Science Undergrad at the **National Institute
 
 </div>
 
-- 🔭 I’m currently working on **Flutter and Firebase**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **GoLang**
 
