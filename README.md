@@ -17,7 +17,7 @@ I'm **Prakhar Pandey**, a Computer Science Undergrad at the **National Institute
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👯 I’m looking to collaborate on **App Dev Projects**
+- 👯 I’m looking to collaborate on **Web Dev Projects**
 
 - 📫 How to reach me **prakharpandey067@gmail.com**
 
