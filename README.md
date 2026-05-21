@@ -83,8 +83,7 @@ I'm **Prakhar Pandey**, a Computer Science Undergrad at the **National Institute
 <div align="center">
   <br/><br/>
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Prakharpan-dey&theme=merko&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharpan-dey&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ [![](https://github-readme-streak-stats.herokuapp.com?user=Prakharpan-dey&theme=merko)](https://git.io/streak-stats)
   
 </div>
 
@@ -100,5 +99,11 @@ I'm **Prakhar Pandey**, a Computer Science Undergrad at the **National Institute
 
 </div>
 
-
-![Snake animation](https://github.com/SaumitraTandon/SaumitraTandon/blob/output/snake.svg)
+---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakharpan-dey/Prakharpan-dey/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakharpan-dey/Prakharpan-dey/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Prakharpan-dey/Prakharpan-dey/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
