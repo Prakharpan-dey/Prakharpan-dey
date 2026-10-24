@@ -3,8 +3,6 @@
 
 <div align="center">
 
-I'm **Prakhar Pandey**, a Computer Science Undergrad at the **National Institute of Technology Hamirpur**. 
-
 </div>
 
 <div align="center">
@@ -12,16 +10,7 @@ I'm **Prakhar Pandey**, a Computer Science Undergrad at the **National Institute
 ![GIF](https://github.com/Prakharpan-dey/Prakharpan-dey/blob/main/images/coding%20gif.gif)
 
 </div>
-
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **GoLang**
-
-- 👯 I’m looking to collaborate on **Web Dev Projects**
-
-- 📫 How to reach me **prakharpandey067@gmail.com**
-
-## <div align="center"> 💼 Technical Skills </div>
+<div align="center"> 💼 Technical Skills </div>
 <p align="left">
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
